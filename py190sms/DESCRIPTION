@@ -1,0 +1,9 @@
+
+py190sms e' un software gratuito, riservato ai soli clienti Vodafone,
+utile per inviare, semplicemente, SMS tramite Internet, collegandosi
+al sito Vodafone.it senza dover aprire alcun browser, compilando le
+informazioni richieste. Il programma e' semplice ed intuitivo ed e'
+possibile creare una rubrica personalizzabile, cosi' da facilitare
+le operazioni all'utente. Il software, interamente programmato in
+Python e' portabile nella maggior parte delle piattaforme odierne
+che supportino Python e wxPython.
